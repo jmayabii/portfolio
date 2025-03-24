@@ -1,6 +1,9 @@
 HEAD
+<<<<<<< HEAD
 *
 !.gitignore
+=======
+>>>>>>> b7f8235 (Fixed .gitignore to ignore all files)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -175,3 +178,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
+=======
+*
+!.gitignore
+ 4618147 (Ignored all files)
+>>>>>>> b7f8235 (Fixed .gitignore to ignore all files)
